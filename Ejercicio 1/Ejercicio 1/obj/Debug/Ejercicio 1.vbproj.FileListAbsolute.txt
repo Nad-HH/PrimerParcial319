@@ -1,0 +1,20 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+C:\Users\ASUS\AppData\Local\Temporary Projects\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+C:\Users\ASUS\AppData\Local\Temporary Projects\Ejercicio 1\bin\Debug\Ejercicio 1.xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\Ejercicio 1\obj\Debug\Ejercicio_1.Form1.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\Ejercicio 1\obj\Debug\Ejercicio_1.Resources.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\Ejercicio 1\obj\Debug\Ejercicio 1.vbproj.GenerateResource.Cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\Ejercicio 1\obj\Debug\Ejercicio 1.xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\Ejercicio 1\obj\Debug\Ejercicio 1.pdb
+D:\Clases 2022\2do semestre\INF-319\primer parcial\1erParcial319\Ejercicio1\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+D:\Clases 2022\2do semestre\INF-319\primer parcial\1erParcial319\Ejercicio1\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+D:\Clases 2022\2do semestre\INF-319\primer parcial\1erParcial319\Ejercicio1\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.xml
+D:\Clases 2022\2do semestre\INF-319\primer parcial\1erParcial319\Ejercicio1\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.pdb
+D:\Clases 2022\2do semestre\INF-319\primer parcial\1erParcial319\Ejercicio1\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+D:\Clases 2022\2do semestre\INF-319\primer parcial\1erParcial319\Ejercicio1\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+D:\Clases 2022\2do semestre\INF-319\primer parcial\1erParcial319\Ejercicio1\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.xml
+D:\Clases 2022\2do semestre\INF-319\primer parcial\1erParcial319\Ejercicio1\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio_1.Form1.resources
+D:\Clases 2022\2do semestre\INF-319\primer parcial\1erParcial319\Ejercicio1\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio_1.Resources.resources
+D:\Clases 2022\2do semestre\INF-319\primer parcial\1erParcial319\Ejercicio1\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.vbproj.GenerateResource.Cache
