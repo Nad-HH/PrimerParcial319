@@ -1,0 +1,18 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\ejercicio2\bin\Debug\ejercicio2.exe.config
+C:\Users\ASUS\AppData\Local\Temporary Projects\ejercicio2\bin\Debug\ejercicio2.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\ejercicio2\bin\Debug\ejercicio2.pdb
+C:\Users\ASUS\AppData\Local\Temporary Projects\ejercicio2\obj\Debug\ejercicio2.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\ejercicio2\obj\Debug\ejercicio2.Properties.Resources.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\ejercicio2\obj\Debug\ejercicio2.csproj.GenerateResource.Cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\ejercicio2\obj\Debug\ejercicio2.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\ejercicio2\obj\Debug\ejercicio2.pdb
+C:\Users\ASUS\AppData\Local\Temporary Projects\ejercicio2\obj\Debug\ejercicio2.Calculadora.resources
+D:\Clases 2022\2do semestre\INF-319\primer parcial\1erParcial319\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe.config
+D:\Clases 2022\2do semestre\INF-319\primer parcial\1erParcial319\ejercicio2\ejercicio2\obj\Debug\ejercicio2.exe
+D:\Clases 2022\2do semestre\INF-319\primer parcial\1erParcial319\ejercicio2\ejercicio2\obj\Debug\ejercicio2.pdb
+D:\Clases 2022\2do semestre\INF-319\primer parcial\1erParcial319\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe
+D:\Clases 2022\2do semestre\INF-319\primer parcial\1erParcial319\ejercicio2\ejercicio2\bin\Debug\ejercicio2.pdb
+D:\Clases 2022\2do semestre\INF-319\primer parcial\1erParcial319\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csprojResolveAssemblyReference.cache
+D:\Clases 2022\2do semestre\INF-319\primer parcial\1erParcial319\ejercicio2\ejercicio2\obj\Debug\ejercicio2.Calculadora.resources
+D:\Clases 2022\2do semestre\INF-319\primer parcial\1erParcial319\ejercicio2\ejercicio2\obj\Debug\ejercicio2.Properties.Resources.resources
+D:\Clases 2022\2do semestre\INF-319\primer parcial\1erParcial319\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csproj.GenerateResource.Cache
